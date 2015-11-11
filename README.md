@@ -6,5 +6,5 @@ Team Online Games
 2)  next game is work in progress
 
 
-Meteor + Angulaer + Material -> mobile app for iPhone + Android
+Meteor + Angular + Material -> mobile app for iPhone + Android
 
